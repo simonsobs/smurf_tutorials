@@ -19,8 +19,8 @@ These tutorials should be completed in the following order and cover:
  - Instantiating `pysmurf` in offline mode
  - Reading and ploting tune data
  - Reading and plotting streamed data
- - Reading and plotting tracking setup data
- - Reading and plotting IV data
+3.5. **G3 Data**
+ - Taking and loading data in the G3 format.
 4. **TES Biasing**
 
 ### Additional Notebook References
